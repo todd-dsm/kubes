@@ -1,0 +1,5 @@
+asset_dir = "./secrets"
+cluster_name = "kubes"
+dns_zone = "ptest.us"
+dns_zone_id = "ZPEASGC9BUTW5"
+ssh_authorized_key = "thomas"

@@ -1,0 +1,6 @@
+# Terraform Stuff
+*.tfstate
+*.tfstate.backup
+.terraform/
+# IDE Crud
+.idea/
